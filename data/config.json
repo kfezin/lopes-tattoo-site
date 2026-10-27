@@ -1,0 +1,28 @@
+{
+  "nome": "Lopes Tattoo",
+  "artista": "Ícaro Lopes",
+  "whatsapp": "5575991550779",
+  "whatsappExibicao": "(75) 99155-0779",
+  "instagram": "https://www.instagram.com/icarolopes.tattoo/",
+  "instagramUsuario": "@icarolopes.tattoo",
+  "cidadeBase": "Feira de Santana – BA",
+  "imagemCompartilhamento": "/manus-storage/async-images/HAflK90nTlskqtSmidsWJD/image-1.webp",
+  "endereco": "",
+  "flags": {
+    "mostrarOutrasCidades": false,
+    "mostrarEndereco": false
+  },
+  "outrasCidadesTexto": "Também tatuo em outras cidades em datas específicas. Consulte as próximas datas pelo WhatsApp.",
+  "mensagemWhatsappPadrao": "Olá! Vim pelo site e quero conversar sobre uma tatuagem.",
+  "textos": {
+    "heroTitulo": "Blackwork autoral, pensado para você.",
+    "heroSubtitulo": "Tatuagens em preto com identidade própria. Feira de Santana – BA.",
+    "sobreTitulo": "Cada ideia tem seu traço.",
+    "sobreTexto": "Ícaro Lopes é tatuador em Feira de Santana, Bahia, e trabalha com blackwork e fineline. Cada projeto nasce de uma conversa: sua ideia, seu corpo e uma linguagem em preto que faça sentido pra você.",
+    "ctaFinalTitulo": "Tem uma ideia? Vamos transformar em tatuagem.",
+    "galeriaTitulo": "Trabalhos",
+    "galeriaIntro": "Projetos publicados por Ícaro Lopes em blackwork e fineline.",
+    "contatoTitulo": "Conte sua ideia",
+    "contatoIntro": "Quanto mais você contar, mais fácil conversar sobre o projeto. Referências ajudam, mas nada precisa estar fechado."
+  }
+}

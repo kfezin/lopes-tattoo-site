@@ -1,0 +1,1 @@
+Adicione aqui fotos reais do portfólio com autorização de uso. Atualize o caminho `arquivo` correspondente em data/trabalhos.json. Os placeholders atuais não são fotografias.

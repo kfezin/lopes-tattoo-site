@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aranha estilizada">
+  <rect width="64" height="64" rx="6" fill="#0e0e0f"/>
+  <g fill="none" stroke="#e8e4dc" stroke-linecap="square" stroke-width="2.2">
+    <path d="M32 23V10M32 41v13M26 27 14 19l-7 1M26 32H11l-6 6M26 37 14 46l-7 0M38 27l12-8 7 1M38 32h15l6 6M38 37l12 9 7 0"/>
+    <path d="M32 22c-5 3-7 7-7 10s2 8 7 11c5-3 7-8 7-11s-2-7-7-10Z" fill="#7a1417"/>
+    <path d="M29 10h6M29 54h6M7 20l-3-4M5 38l-4 1M7 46l-3 4M57 20l3-4M59 38l4 1M57 46l3 4"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+[
+  {
+    "pergunta": "Como funciona o orçamento?",
+    "resposta": "O valor depende do tamanho, da região do corpo e da complexidade do projeto. Por isso, a avaliação acontece depois que você conta sua ideia."
+  },
+  {
+    "pergunta": "Posso levar uma referência?",
+    "resposta": "Pode. Referências ajudam a conversa, mas cada projeto é conversado individualmente."
+  },
+  {
+    "pergunta": "Você atende em outras cidades?",
+    "resposta": "Também tatuo em outras cidades em datas específicas. Consulte pelo WhatsApp.",
+    "requerFlag": "mostrarOutrasCidades"
+  },
+  {
+    "pergunta": "Tenho dúvidas sobre saúde ou cicatrização.",
+    "resposta": "Para questões de saúde, procure um profissional qualificado. Pelo WhatsApp posso explicar como funciona o atendimento."
+  }
+]

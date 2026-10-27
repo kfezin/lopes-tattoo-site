@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Atualize para o domínio canônico real antes de publicar.
+Sitemap: https://SEU-DOMINIO.com/sitemap.xml

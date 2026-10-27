@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "Lopes Tattoo | Blackwork em Feira de Santana" },
+    { "path": "/trabalhos/", "title": "Galeria de tatuagens Blackwork | Lopes Tattoo" },
+    { "path": "/contato/", "title": "Contato e orçamento de tatuagem | Lopes Tattoo" }
+  ]
+}

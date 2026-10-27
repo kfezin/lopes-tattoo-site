@@ -1,0 +1,5 @@
+BACKUP DO PORTFÓLIO
+
+A cópia do projeto recebida (`lopes-tattoo-site.rar`) não continha arquivos de imagem do portfólio. A pasta `assets/trabalhos/` continha apenas instruções; nenhuma imagem foi apagada ou movida.
+
+Se imagens antigas forem adicionadas depois, mova-as para esta pasta antes de substituir ou remover referências na galeria.

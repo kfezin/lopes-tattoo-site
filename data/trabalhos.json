@@ -1,0 +1,14 @@
+[
+  {"id":"floral-costas-01","arquivo":null,"alt":"Foto do trabalho floral blackwork nas costas — imagem real ainda não fornecida.","legenda":"Floral · costas","categoria":"floral","destaque":true},
+  {"id":"leao-blackwork-01","arquivo":null,"alt":"Foto do trabalho de leão em blackwork — imagem real ainda não fornecida.","legenda":"Leão · blackwork","categoria":"animais","destaque":true},
+  {"id":"chaos-paradise-01","arquivo":null,"alt":"Foto da tatuagem lettering CHAOS / PARADISE no peito — imagem real ainda não fornecida.","legenda":"CHAOS / PARADISE · peito","categoria":"lettering","destaque":true},
+  {"id":"floral-slot-02","arquivo":null,"alt":"Espaço de portfólio floral aguardando foto autorizada.","legenda":"Imagem pendente · floral","categoria":"floral","destaque":true,"slot":true},
+  {"id":"floral-slot-03","arquivo":null,"alt":"Espaço de portfólio floral aguardando foto autorizada.","legenda":"Imagem pendente · floral","categoria":"floral","destaque":false,"slot":true},
+  {"id":"floral-slot-04","arquivo":null,"alt":"Espaço de portfólio floral aguardando foto autorizada.","legenda":"Imagem pendente · floral","categoria":"floral","destaque":false,"slot":true},
+  {"id":"animais-slot-02","arquivo":null,"alt":"Espaço de portfólio de animais aguardando foto autorizada.","legenda":"Imagem pendente · animais","categoria":"animais","destaque":true,"slot":true},
+  {"id":"animais-slot-03","arquivo":null,"alt":"Espaço de portfólio de animais aguardando foto autorizada.","legenda":"Imagem pendente · animais","categoria":"animais","destaque":false,"slot":true},
+  {"id":"animais-slot-04","arquivo":null,"alt":"Espaço de portfólio de animais aguardando foto autorizada.","legenda":"Imagem pendente · animais","categoria":"animais","destaque":false,"slot":true},
+  {"id":"lettering-slot-02","arquivo":null,"alt":"Espaço de portfólio lettering aguardando foto autorizada.","legenda":"Imagem pendente · lettering","categoria":"lettering","destaque":true,"slot":true},
+  {"id":"lettering-slot-03","arquivo":null,"alt":"Espaço de portfólio lettering aguardando foto autorizada.","legenda":"Imagem pendente · lettering","categoria":"lettering","destaque":false,"slot":true},
+  {"id":"lettering-slot-04","arquivo":null,"alt":"Espaço de portfólio lettering aguardando foto autorizada.","legenda":"Imagem pendente · lettering","categoria":"lettering","destaque":false,"slot":true}
+]
